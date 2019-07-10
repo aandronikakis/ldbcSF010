@@ -1,0 +1,4 @@
+tagClasses
+Writer;Single;Country
+Person;Album;OfficeHolder;MusicalArtist;Single;Country
+Writer;MusicalArtist;Single
